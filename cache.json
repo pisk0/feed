@@ -5,6 +5,12 @@
       "feedUrl": "https://github.com/osmoscraft/osmosfeed/releases.atom",
       "siteUrl": "https://github.com/osmoscraft/osmosfeed/releases",
       "articles": []
+    },
+    {
+      "title": "小中千昭 Chiaki J. Konaka / @yamaki_nyx",
+      "feedUrl": "https://nitter.it/yamaki_nyx/rss",
+      "siteUrl": "https://nitter.it/yamaki_nyx",
+      "articles": []
     }
   ],
   "cliVersion": "1.15.1"
