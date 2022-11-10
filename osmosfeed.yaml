@@ -7,3 +7,9 @@
 sources:
   - href: https://github.com/osmoscraft/osmosfeed/releases.atom # Get new feature announcement via this feed
   - href: https://nitter.it/yamaki_nyx/rss
+  - href: https://nitter.it/wasei_jj/rss
+  - href: https://nitter.it/abfly/rss
+  - href: http://abworks.blog83.fc2.com/?xml
+  - href: https://kz.zebraboss.com/feed/vk/club/201223334.rss
+  - href: https://kz.zebraboss.com/feed/vk/id/220617968.rss
+  - href: https://kz.zebraboss.com/feed/vk/club/167044850.rss
