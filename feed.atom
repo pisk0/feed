@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-11-20T01:17:58.034Z</id>
+    <id>urn:2022-11-21T01:14:59.465Z</id>
     <title>osmos::feed</title>
-    <updated>2022-11-20T01:17:58.034Z</updated>
+    <updated>2022-11-21T01:14:59.465Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[トランプさんは、毎日Twitterでおもしろツイートのオチの手前まで書いて『続きはトゥルースソーシャルで！😝』とかやればいいのに]]></title>
+        <id>https://nitter.it/abfly/status/1594243859290066944#m</id>
+        <link href="https://nitter.it/abfly/status/1594243859290066944#m"/>
+        <updated>2022-11-20T08:18:50.000Z</updated>
+        <summary type="html"><![CDATA[トランプさんは、毎日Twitterでおもしろツイートのオチの手前まで書いて『続きはトゥルースソーシャルで！😝』とかやればいいのに]]></summary>
+        <author>
+            <name>@abfly</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Special thank you to my 76 new followers from Brazil, Japan, and more last week. http://tweepsmap.com/!yamaki_nyx]]></title>
+        <id>https://nitter.it/yamaki_nyx/status/1594220947107713024#m</id>
+        <link href="https://nitter.it/yamaki_nyx/status/1594220947107713024#m"/>
+        <updated>2022-11-20T06:47:47.000Z</updated>
+        <summary type="html"><![CDATA[Special thank you to my 76 new followers from Brazil, Japan, and more last week. tweepsmap.com/!yamaki_nyx]]></summary>
+        <author>
+            <name>@yamaki_nyx</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[あー楽しかった😄
 I really had a fun time!
@@ -541,16 +561,6 @@ piped.mha.fi/UG_ebmEWgA8]]></summary>
         <summary type="html"><![CDATA[本日、誕生日なので( •⌓•) @abfly と冨樫義博展に行きました( ✌︎'ω')✌︎ #冨樫義博 #冨樫義博展 #誕生日 #誕生日プレゼント ( •⌓•)の顔がしわくちゃwww instagram.com/p/Ckh03S-vTW5/…]]></summary>
         <author>
             <name>@Yukaly</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ghelia Monthly～イラストレーターとAI【4】／僕を真似してくれてありがとう（ゲスト：安倍吉俊氏） https://youtu.be/GpRTEH66FWo @YouTubeより 対談その4です。]]></title>
-        <id>https://nitter.it/abfly/status/1587749661959680002#m</id>
-        <link href="https://nitter.it/abfly/status/1587749661959680002#m"/>
-        <updated>2022-11-02T10:13:13.000Z</updated>
-        <summary type="html"><![CDATA[Ghelia Monthly～イラストレーターとAI【4】／僕を真似してくれてありがとう（ゲスト：安倍吉俊氏） piped.mha.fi/GpRTEH66FWo @YouTubeより 対談その4です。]]></summary>
-        <author>
-            <name>@abfly</name>
         </author>
     </entry>
 </feed>
