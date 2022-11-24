@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-11-23T01:06:54.565Z</id>
+    <id>urn:2022-11-24T01:12:53.135Z</id>
     <title>osmos::feed</title>
-    <updated>2022-11-23T01:06:54.565Z</updated>
+    <updated>2022-11-24T01:12:53.135Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[子供寝かしつけながら一緒に寝てしまって、起きてスマホつけた途端に一点取って、さらに一点、いやーすごかった]]></title>
+        <id>https://nitter.it/abfly/status/1595432566944722945#m</id>
+        <link href="https://nitter.it/abfly/status/1595432566944722945#m"/>
+        <updated>2022-11-23T15:02:20.000Z</updated>
+        <summary type="html"><![CDATA[子供寝かしつけながら一緒に寝てしまって、起きてスマホつけた途端に一点取って、さらに一点、いやーすごかった]]></summary>
+        <author>
+            <name>@abfly</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[RT by @wasei_jj: 深夜にこっそりおるでよー　来たい人はおいでー]]></title>
         <id>https://nitter.it/_Ha_allOK_/status/1594709109034532864#m</id>
@@ -286,6 +296,18 @@ piped.mha.fi/djwaseijp
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Я сделал симуляцию жизни на Scratch!
+Проект 760126322]]></title>
+        <id>https://vk.com/wall-167044850_2777</id>
+        <link href="https://vk.com/wall-167044850_2777"/>
+        <updated>2022-11-12T11:18:15.000Z</updated>
+        <summary type="html"><![CDATA[Я сделал симуляцию жизни на Scratch!
+Проект 760126322]]></summary>
+        <author>
+            <name>vk.com</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[RT by @wasei_jj: 4回連続で仕事と被って行けなかったので、久しぶりに来れたCLXは最高でした。
 
 serial experiments lain「Cyberia Layer X Season:02 Layer:06」写真集（2022/11/11）
@@ -438,6 +460,24 @@ nitter.it/se_ki53246anime/status/1590334498029596675#m]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Симуляция цифровых деревьев показалась интересной, но проект ...]]></title>
+        <id>https://vk.com/wall-167044850_2756</id>
+        <link href="https://vk.com/wall-167044850_2756"/>
+        <updated>2022-11-09T15:45:55.000Z</updated>
+        <summary type="html"><![CDATA[Симуляция цифровых деревьев показалась интересной, но проект был написан на Pixilang и чтобы что-то добавить или поменять нужно было бы разбираться в синтаксисе языка, да и сам проект по неизвестным причинам не запускался на последней версии Pixilang.
+
+Я решил, написать что-то похожее в качестве языка программирования выбрал C, а графическую библиотеку взял RayLib.
+
+Прошло несколько дней с момента начала проекта и я думаю, что можно показать что получилось.
+
+Код: https://github.com/fhw12/digital_trees
+Для сборки необходима библиотека RayLib.
+На Linux можно запустить build.sh - собирает и запускает проект, после закрытия окна удаляется собранный файл (просто удалите rm main в build скрипте если вам это не нужно).]]></summary>
+        <author>
+            <name>vk.com</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[RT by @abfly: こちらのキャンペーンで、灰羽連盟のポストカード当たりました！！
 安倍吉俊先生作品大好きすぐる！うれしみ！！＼\ ٩( 'ω' )و /／]]></title>
         <id>https://nitter.it/nagmich/status/1590319931195031553#m</id>
@@ -513,16 +553,6 @@ Ghelia Monthly／絵を描くことは自分が何者なのかを発見しよう
 piped.mha.fi/UG_ebmEWgA8]]></summary>
         <author>
             <name>@houkago_kitsune</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[(￣Σ￣)奥さんの誕生日に冨樫展に行きました。展示は撮影禁止だったのでコラボカフェのサンドイッチ。おいしかったけど盤の竹墨で手と口が真っ黒になりますw https://instagr.am/p/Cki6LUPvWkM/]]></title>
-        <id>https://nitter.it/abfly/status/1588574542863241224#m</id>
-        <link href="https://nitter.it/abfly/status/1588574542863241224#m"/>
-        <updated>2022-11-04T16:50:59.000Z</updated>
-        <summary type="html"><![CDATA[(￣Σ￣)奥さんの誕生日に冨樫展に行きました。展示は撮影禁止だったのでコラボカフェのサンドイッチ。おいしかったけど盤の竹墨で手と口が真っ黒になりますw instagr.am/p/Cki6LUPvWkM/]]></summary>
-        <author>
-            <name>@abfly</name>
         </author>
     </entry>
     <entry>
