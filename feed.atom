@@ -1,8 +1,38 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-11-30T01:07:49.750Z</id>
+    <id>urn:2022-12-01T01:14:57.785Z</id>
     <title>osmos::feed</title>
-    <updated>2022-11-30T01:07:49.750Z</updated>
+    <updated>2022-12-01T01:14:57.785Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Я сделал симуляцию жизни на Scratch!
+Проект 760126322]]></title>
+        <id>https://vk.com/wall-167044850_2777</id>
+        <link href="https://vk.com/wall-167044850_2777"/>
+        <updated>2022-11-12T11:18:15.000Z</updated>
+        <summary type="html"><![CDATA[Я сделал симуляцию жизни на Scratch!
+Проект 760126322]]></summary>
+        <author>
+            <name>vk.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Симуляция цифровых деревьев показалась интересной, но проект ...]]></title>
+        <id>https://vk.com/wall-167044850_2756</id>
+        <link href="https://vk.com/wall-167044850_2756"/>
+        <updated>2022-11-09T15:45:55.000Z</updated>
+        <summary type="html"><![CDATA[Симуляция цифровых деревьев показалась интересной, но проект был написан на Pixilang и чтобы что-то добавить или поменять нужно было бы разбираться в синтаксисе языка, да и сам проект по неизвестным причинам не запускался на последней версии Pixilang.
+
+Я решил, написать что-то похожее в качестве языка программирования выбрал C, а графическую библиотеку взял RayLib.
+
+Прошло несколько дней с момента начала проекта и я думаю, что можно показать что получилось.
+
+Код: https://github.com/fhw12/digital_trees
+Для сборки необходима библиотека RayLib.
+На Linux можно запустить build.sh - собирает и запускает проект, после закрытия окна удаляется собранный файл (просто удалите rm main в build скрипте если вам это не нужно).]]></summary>
+        <author>
+            <name>vk.com</name>
+        </author>
+    </entry>
 </feed>
