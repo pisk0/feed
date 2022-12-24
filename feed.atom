@@ -1,10 +1,190 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-12-23T01:00:09.835Z</id>
+    <id>urn:2022-12-24T00:55:24.213Z</id>
     <title>osmos::feed</title>
-    <updated>2022-12-23T01:00:09.835Z</updated>
+    <updated>2022-12-24T00:55:24.213Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Let's get it started!
+そろそろ始めようか。]]></title>
+        <id>https://nitter.it/wasei_jj/status/1606410551005184000#m</id>
+        <link href="https://nitter.it/wasei_jj/status/1606410551005184000#m"/>
+        <updated>2022-12-23T22:04:55.000Z</updated>
+        <summary type="html"><![CDATA[Let's get it started!
+nitter.it/wasei_jj/status/1606392861087277056#m]]></summary>
+        <author>
+            <name>@wasei_jj</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[この後会おうぜ。
+See you later.
+URL: http://youtu.be/aRxv3qM-Zo4
+time: 22:00UTC/17:00EST/日本時間24日土曜朝7:00~]]></title>
+        <id>https://nitter.it/wasei_jj/status/1606392861087277056#m</id>
+        <link href="https://nitter.it/wasei_jj/status/1606392861087277056#m"/>
+        <updated>2022-12-23T20:54:38.000Z</updated>
+        <summary type="html"><![CDATA[この後会おうぜ。
+piped.mha.fi/aRxv3qM-Zo4
+nitter.it/wasei_jj/status/1606292453207994370#m]]></summary>
+        <author>
+            <name>@wasei_jj</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT by @wasei_jj: my birthday present to myself this year, need to go to the club asap]]></title>
+        <id>https://nitter.it/daehruoyserehw/status/1606374177065340950#m</id>
+        <link href="https://nitter.it/daehruoyserehw/status/1606374177065340950#m"/>
+        <updated>2022-12-23T19:40:23.000Z</updated>
+        <summary type="html"><![CDATA[my birthday present to myself this year, need to go to the club asap]]></summary>
+        <author>
+            <name>@daehruoyserehw</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Идея для новогоднего праздника - сделать огромное желе с бути...]]></title>
+        <id>https://vk.com/wall-201223334_4451</id>
+        <link href="https://vk.com/wall-201223334_4451"/>
+        <updated>2022-12-23T15:15:19.000Z</updated>
+        <summary type="html"><![CDATA[Идея для новогоднего праздника - сделать огромное желе с бутиратом]]></summary>
+        <author>
+            <name>Неоднозначный поток сознания</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【Cyberia Layer X season:02】layer:12 OVERSEAS
+明日の朝会いましょう。
+See you later.
+day: Dec. 23 Fri.
+URL: https://youtu.be/aRxv3qM-Zo4
+time: 22:00UTC/17:00EST/日本時間24日土曜朝7:00~
+#CLX_lain #CLX_lain_VR #SerialExperimentsLain #lainTTL #シリアルエクスペリメンツレイン]]></title>
+        <id>https://nitter.it/wasei_jj/status/1606292453207994370#m</id>
+        <link href="https://nitter.it/wasei_jj/status/1606292453207994370#m"/>
+        <updated>2022-12-23T14:15:38.000Z</updated>
+        <summary type="html"><![CDATA[【Cyberia Layer X season:02】layer:12 OVERSEAS
+piped.mha.fi/aRxv3qM-Zo4
+#CLX_lain #CLX_lain_VR #SerialExperimentsLain #lainTTL #シリアルエクスペリメンツレイン]]></summary>
+        <author>
+            <name>@wasei_jj</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Вот бы вместо деда мороза был Алистер Кроули и на новый год в...]]></title>
+        <id>https://vk.com/wall-201223334_4448</id>
+        <link href="https://vk.com/wall-201223334_4448"/>
+        <updated>2022-12-23T14:04:39.000Z</updated>
+        <summary type="html"><![CDATA[Вот бы вместо деда мороза был Алистер Кроули и на новый год все пили кошачью кровь с мескалином]]></summary>
+        <author>
+            <name>Неоднозначный поток сознания</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[リリースおめでとう！
+Congrats on the release!]]></title>
+        <id>https://nitter.it/wasei_jj/status/1606282193453535236#m</id>
+        <link href="https://nitter.it/wasei_jj/status/1606282193453535236#m"/>
+        <updated>2022-12-23T13:34:52.000Z</updated>
+        <summary type="html"><![CDATA[リリースおめでとう！
+Congrats on the release!]]></summary>
+        <author>
+            <name>@wasei_jj</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT by @wasei_jj: そして、約2年前に参加させて頂いた
+" CHIKADA">@wasei_jj さんとのVR WORLDは、この4曲目のデモから生まれました、SAGAさんと三人でやったこの曲は一生の思い出、そして自分の原点となっています。]]></title>
+        <id>https://nitter.it/Kyogen_wired/status/1606280058665963521#m</id>
+        <link href="https://nitter.it/Kyogen_wired/status/1606280058665963521#m"/>
+        <updated>2022-12-23T13:26:23.000Z</updated>
+        <summary type="html"><![CDATA[そして、約2年前に参加させて頂いた
+@wasei_jj さんとのVR WORLDは、この4曲目のデモから生まれました、SAGAさんと三人でやったこの曲は一生の思い出、そして自分の原点となっています。]]></summary>
+        <author>
+            <name>@Kyogen_wired</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT by @wasei_jj: リリースされました〜
+よろしくお願いします！]]></title>
+        <id>https://nitter.it/teodoro_m9/status/1606274705417072641#m</id>
+        <link href="https://nitter.it/teodoro_m9/status/1606274705417072641#m"/>
+        <updated>2022-12-23T13:05:07.000Z</updated>
+        <summary type="html"><![CDATA[リリースされました〜
+nitter.it/batafuraidansuE/status/1606274342949511168#m]]></summary>
+        <author>
+            <name>@teodoro_m9</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[короче, я щяс снесу все подписки и подпишусь только на самые ...]]></title>
+        <id>https://vk.com/wall-201223334_4441</id>
+        <link href="https://vk.com/wall-201223334_4441"/>
+        <updated>2022-12-23T11:00:54.000Z</updated>
+        <summary type="html"><![CDATA[короче, я щяс снесу все подписки и подпишусь только на самые популярные паблики вк, чтобы наполнить свою нейросеть в мозгу имитирующую мою личность попсой и монетизировкать ее]]></summary>
+        <author>
+            <name>Неоднозначный поток сознания</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ウズラ(••)6歳がクリスマス飾りを自作し始めたが…… https://instagr.am/p/CmgTC6FP6ts/]]></title>
+        <id>https://nitter.it/abfly/status/1606225858255101953#m</id>
+        <link href="https://nitter.it/abfly/status/1606225858255101953#m"/>
+        <updated>2022-12-23T09:51:01.000Z</updated>
+        <summary type="html"><![CDATA[ウズラ(••)6歳がクリスマス飾りを自作し始めたが…… instagr.am/p/CmgTC6FP6ts/]]></summary>
+        <author>
+            <name>@abfly</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT by @wasei_jj: (　>д<)明日やよー(じゅーにかーいめっ)
+#CLX_lain #CYBERIA_VRC #VRC #SerialExperimentsLain]]></title>
+        <id>https://nitter.it/_Ha_allOK_/status/1606193158433316864#m</id>
+        <link href="https://nitter.it/_Ha_allOK_/status/1606193158433316864#m"/>
+        <updated>2022-12-23T07:41:05.000Z</updated>
+        <summary type="html"><![CDATA[(　>д<)明日やよー(じゅーにかーいめっ)
+#CLX_lain #CYBERIA_VRC #VRC #SerialExperimentsLain]]></summary>
+        <author>
+            <name>@_Ha_allOK_</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[『ウィザードリィ』の伝説的小説『隣り合わせの灰と青春』30年以上の時を経てまさかのコミカライズが連載開始。ベニー松山氏と蝸牛くも氏による、ふたりのウィザードリィ小説作家の対談も公開 https://news.denfaminicogamer.jp/news/221223q @denfaminicogameより懐かしい]]></title>
+        <id>https://nitter.it/abfly/status/1606177246003318786#m</id>
+        <link href="https://nitter.it/abfly/status/1606177246003318786#m"/>
+        <updated>2022-12-23T06:37:51.000Z</updated>
+        <summary type="html"><![CDATA[『ウィザードリィ』の伝説的小説『隣り合わせの灰と青春』30年以上の時を経てまさかのコミカライズが連載開始。ベニー松山氏と蝸牛くも氏による、ふたりのウィザードリィ小説作家の対談も公開 news.denfaminicogamer.jp/new… @denfaminicogameより懐かしい]]></summary>
+        <author>
+            <name>@abfly</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[毎月第四金曜日は海外向け時間。日本時間は土曜朝7:00からです。お間違いのないようにね。
+The fourth Friday of every month is the time for international visitors.
+#CLX_lain #CLX_lain_VR #SerialExperimentsLain #lainTTL #シリアルエクスペリメンツレイン #CyberiaLayer4]]></title>
+        <id>https://nitter.it/wasei_jj/status/1606140869609893888#m</id>
+        <link href="https://nitter.it/wasei_jj/status/1606140869609893888#m"/>
+        <updated>2022-12-23T04:13:18.000Z</updated>
+        <summary type="html"><![CDATA[毎月第四金曜日は海外向け時間。日本時間は土曜朝7:00からです。お間違いのないようにね。
+#CLX_lain #CLX_lain_VR #SerialExperimentsLain #lainTTL #シリアルエクスペリメンツレイン #CyberiaLayer4
+nitter.it/wasei_jj/status/1605383714107596800#m]]></summary>
+        <author>
+            <name>@wasei_jj</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[そうそう、こうして通しで聴いてもらう事でアルバムの意味が生まれるんだよ。
+The meaning of the album is created by listening to the whole album in this way. #cyberialayer4]]></title>
+        <id>https://nitter.it/wasei_jj/status/1606124195322085376#m</id>
+        <link href="https://nitter.it/wasei_jj/status/1606124195322085376#m"/>
+        <updated>2022-12-23T03:07:03.000Z</updated>
+        <summary type="html"><![CDATA[そうそう、こうして通しで聴いてもらう事でアルバムの意味が生まれるんだよ。
+#cyberialayer4
+nitter.it/Orime_03/status/1605900855118397441#m]]></summary>
+        <author>
+            <name>@wasei_jj</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[А вы тоже мечтаете сожрать нбом в колонии строгого режима?]]></title>
         <id>https://vk.com/wall-201223334_4429</id>
@@ -51,6 +231,80 @@ patreon.com/posts/doujinshi-…]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[毎月第四金曜日は海外向け時間。日本時間は土曜朝7:00から。
+The fourth Friday of every month is the time for international visitors.
+#CLX_lain #CLX_lain_VR #SerialExperimentsLain #lainTTL #シリアルエクスペリメンツレイン #CyberiaLayer4]]></title>
+        <id>https://nitter.it/wasei_jj/status/1605834959360360450#m</id>
+        <link href="https://nitter.it/wasei_jj/status/1605834959360360450#m"/>
+        <updated>2022-12-22T07:57:43.000Z</updated>
+        <summary type="html"><![CDATA[毎月第四金曜日は海外向け時間。日本時間は土曜朝7:00から。
+#CLX_lain #CLX_lain_VR #SerialExperimentsLain #lainTTL #シリアルエクスペリメンツレイン #CyberiaLayer4
+nitter.it/wasei_jj/status/1605383714107596800#m]]></summary>
+        <author>
+            <name>@wasei_jj</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[R to @wasei_jj: A year ago, I saw DJ NINA KRAVIZ and DJ Rebekah DJing in live-action and avatar at "Virtual Harajuku" https://youtu.be/p6n7Zlhzbxg and thought "I want to do this too!# A year later, and I realized that it has gone far beyond that.
+photo: @Sasami15vr
+#CLX_lain_VR #CYBERIA_VRC]]></title>
+        <id>https://nitter.it/wasei_jj/status/1605703886165213184#m</id>
+        <link href="https://nitter.it/wasei_jj/status/1605703886165213184#m"/>
+        <updated>2022-12-21T23:16:53.000Z</updated>
+        <summary type="html"><![CDATA[A year ago, I saw DJ NINA KRAVIZ and DJ Rebekah DJing in live-action and avatar at "Virtual Harajuku" piped.mha.fi/p6n7Zlhzbxg and thought "I want to do this too!# A year later, and I realized that it has gone far beyond that.
+@Sasami15vr
+#CLX_lain_VR #CYBERIA_VRC]]></summary>
+        <author>
+            <name>@wasei_jj</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[1年前「バーチャル原宿」という配信イベント https://youtu.be/p6n7Zlhzbxg でDJ NINA KRAVIZとDJ Rebekahが実写とアバターの2パターンでDJしているのを観て「俺もこれやりたいな〜」と思っていた。あれから一年、気がつけばそれを遥かに超えていた。
+photo: @Sasami15vr EN↓↓ #CLX_lain_VR #CYBERIA_VRC]]></title>
+        <id>https://nitter.it/wasei_jj/status/1605702832383963136#m</id>
+        <link href="https://nitter.it/wasei_jj/status/1605702832383963136#m"/>
+        <updated>2022-12-21T23:12:42.000Z</updated>
+        <summary type="html"><![CDATA[1年前「バーチャル原宿」という配信イベント piped.mha.fi/p6n7Zlhzbxg でDJ NINA KRAVIZとDJ Rebekahが実写とアバターの2パターンでDJしているのを観て「俺もこれやりたいな〜」と思っていた。あれから一年、気がつけばそれを遥かに超えていた。
+@Sasami15vr EN↓↓ #CLX_lain_VR #CYBERIA_VRC]]></summary>
+        <author>
+            <name>@wasei_jj</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT by @wasei_jj: これをかけながら、大掃除します。年末は休みが少なくて大変なのですが、このアルバムを聞いていると、心の栄養補給ができて、元気が回復します。サインもありがとうございました！
+ #cyberialayer4]]></title>
+        <id>https://nitter.it/tmynion/status/1605556432631390210#m</id>
+        <link href="https://nitter.it/tmynion/status/1605556432631390210#m"/>
+        <updated>2022-12-21T13:30:57.000Z</updated>
+        <summary type="html"><![CDATA[これをかけながら、大掃除します。年末は休みが少なくて大変なのですが、このアルバムを聞いていると、心の栄養補給ができて、元気が回復します。サインもありがとうございました！
+#cyberialayer4]]></summary>
+        <author>
+            <name>@tmynion</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[因みに皆んな大晦日はどう過ごす？
+By the way, how do you guys spend New Year's Eve??]]></title>
+        <id>https://nitter.it/wasei_jj/status/1605518510460764161#m</id>
+        <link href="https://nitter.it/wasei_jj/status/1605518510460764161#m"/>
+        <updated>2022-12-21T11:00:16.000Z</updated>
+        <summary type="html"><![CDATA[因みに皆んな大晦日はどう過ごす？
+nitter.it/wasei_jj/status/1605383714107596800#m]]></summary>
+        <author>
+            <name>@wasei_jj</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT by @wasei_jj: New music from " CHIKADA">@wasei_jj arrived!]]></title>
+        <id>https://nitter.it/Collectiphile/status/1605452342278574080#m</id>
+        <link href="https://nitter.it/Collectiphile/status/1605452342278574080#m"/>
+        <updated>2022-12-21T06:37:20.000Z</updated>
+        <summary type="html"><![CDATA[New music from @wasei_jj arrived!]]></summary>
+        <author>
+            <name>@Collectiphile</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Блин интересно а вам норм что я по двацать постов каждый день...]]></title>
         <id>https://vk.com/wall-201223334_4412</id>
         <link href="https://vk.com/wall-201223334_4412"/>
@@ -92,6 +346,25 @@ patreon.com/posts/doujinshi-…]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[RT by @abfly: 【Cyberia Layer:04】Now On Sale
+music: WASEI JJ CHIKADA
+illustration: yoshitoshi ABe @abfly
+JJ Store: https://wasei.tokyo
+bandcamp: https://waseijj.bandcamp.com
+#CLX_lain #SerialExperimentsLain #lainTTL #シリアルエクスペリメンツレイン #メッサストア #安倍吉俊 #cyberialayer4]]></title>
+        <id>https://nitter.it/wasei_jj/status/1605160275443077120#m</id>
+        <link href="https://nitter.it/wasei_jj/status/1605160275443077120#m"/>
+        <updated>2022-12-20T11:16:46.000Z</updated>
+        <summary type="html"><![CDATA[【Cyberia Layer:04】Now On Sale
+@abfly
+wasei.tokyo
+waseijj.bandcamp.com
+#CLX_lain #SerialExperimentsLain #lainTTL #シリアルエクスペリメンツレイン #メッサストア #安倍吉俊 #cyberialayer4]]></summary>
+        <author>
+            <name>@wasei_jj</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[RT by @abfly: 【#SIGMA 今日は何の日】
 6年前の今日、2016年12月20日に、5,100万画素相当のAPS-Hサイズ #Foveon Quattroセンサーを採用し、映像エンジン「TRUE III」をデュアル搭載した高画質デジタル一眼カメラ、SIGMA sd Quattro Hを発売しました。
 https://www.sigma-global.com/jp/cameras/sd-quattro-h/
@@ -114,6 +387,24 @@ sigma-global.com/jp/cameras/…
         <updated>2022-12-19T23:46:18.000Z</updated>
         <author>
             <name>vk.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT by @wasei_jj: #lain
+#CLX_lain 
+#SerialExperimentsLain 
+#lainTTL
+ #シリアルエクスペリメンツレイン]]></title>
+        <id>https://nitter.it/mucc_gtv/status/1604873826659340288#m</id>
+        <link href="https://nitter.it/mucc_gtv/status/1604873826659340288#m"/>
+        <updated>2022-12-19T16:18:32.000Z</updated>
+        <summary type="html"><![CDATA[#lain
+#CLX_lain 
+#SerialExperimentsLain 
+#lainTTL
+#シリアルエクスペリメンツレイン]]></summary>
+        <author>
+            <name>@mucc_gtv</name>
         </author>
     </entry>
     <entry>
@@ -197,6 +488,27 @@ nitter.it/wasei_jj/status/1604265176584572928#m]]></summary>
         <summary type="html"><![CDATA[мои мемы про тохот тохотомемы]]></summary>
         <author>
             <name>Неоднозначный поток сознания</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT by @wasei_jj: 久々の投稿！
+レイン描いてみたよ
+#lain
+#CLX_lain 
+#SerialExperimentsLain 
+#lainTTL
+ #シリアルエクスペリメンツレイン]]></title>
+        <id>https://nitter.it/mucc_gtv/status/1604152293326491648#m</id>
+        <link href="https://nitter.it/mucc_gtv/status/1604152293326491648#m"/>
+        <updated>2022-12-17T16:31:25.000Z</updated>
+        <summary type="html"><![CDATA[久々の投稿！
+#lain
+#CLX_lain 
+#SerialExperimentsLain 
+#lainTTL
+#シリアルエクスペリメンツレイン]]></summary>
+        <author>
+            <name>@mucc_gtv</name>
         </author>
     </entry>
     <entry>
@@ -327,6 +639,21 @@ album art:yoshitoshiABe @abfly
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[RT by @wasei_jj: #キリトリセカイ #lain #CLX_lain
+
+想いを天に飛ばせば
+
+#LainTTL #photography #lain]]></title>
+        <id>https://nitter.it/Kyogen_wired/status/1602285952357257217#m</id>
+        <link href="https://nitter.it/Kyogen_wired/status/1602285952357257217#m"/>
+        <updated>2022-12-12T12:55:14.000Z</updated>
+        <summary type="html"><![CDATA[#キリトリセカイ #lain #CLX_lain
+#LainTTL #photography #lain]]></summary>
+        <author>
+            <name>@Kyogen_wired</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Было бы прикольно написать короче визуальную новеллу на пк, ч...]]></title>
         <id>https://vk.com/wall-201223334_4337</id>
         <link href="https://vk.com/wall-201223334_4337"/>
@@ -452,28 +779,6 @@ sigma-onlineshop.jp/shop/g/g…
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[I am now preparing for Comiket.
- https://www.patreon.com/posts/i-am-now-for-75689561?utm_medium=social&utm_source=twitter&utm_campaign=postshare_creator&utm_content=join_link]]></title>
-        <id>https://nitter.it/abfly/status/1601016372259323905#m</id>
-        <link href="https://nitter.it/abfly/status/1601016372259323905#m"/>
-        <updated>2022-12-09T00:50:23.000Z</updated>
-        <summary type="html"><![CDATA[I am now preparing for Comiket.
-patreon.com/posts/i-am-now-f…]]></summary>
-        <author>
-            <name>@abfly</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[pixivFANBOXで冬コミの準備 を公開しました！ https://abfly.fanbox.cc/posts/4899760?utm_campaign=manage_post_page&utm_medium=share&utm_source=twitter]]></title>
-        <id>https://nitter.it/abfly/status/1601014816092876800#m</id>
-        <link href="https://nitter.it/abfly/status/1601014816092876800#m"/>
-        <updated>2022-12-09T00:44:12.000Z</updated>
-        <summary type="html"><![CDATA[pixivFANBOXで冬コミの準備 を公開しました！ abfly.fanbox.cc/posts/489976…]]></summary>
-        <author>
-            <name>@abfly</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[❤️]]></title>
         <id>https://vk.com/wall220617968_3274</id>
         <link href="https://vk.com/wall220617968_3274"/>
@@ -511,16 +816,6 @@ patreon.com/posts/i-am-now-f…]]></summary>
         <updated>2022-12-06T08:54:16.000Z</updated>
         <author>
             <name>Неоднозначный поток сознания</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[あああ]]></title>
-        <id>https://nitter.it/abfly/status/1599821733472587776#m</id>
-        <link href="https://nitter.it/abfly/status/1599821733472587776#m"/>
-        <updated>2022-12-05T17:43:19.000Z</updated>
-        <summary type="html"><![CDATA[あああ]]></summary>
-        <author>
-            <name>@abfly</name>
         </author>
     </entry>
     <entry>
@@ -586,6 +881,16 @@ patreon.com/posts/i-am-now-f…]]></summary>
 изучение 8 продолжается короче]]></summary>
         <author>
             <name>Неоднозначный поток сознания</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT by @wasei_jj: #CLX_lain]]></title>
+        <id>https://nitter.it/oekakiAI/status/1597256490037170177#m</id>
+        <link href="https://nitter.it/oekakiAI/status/1597256490037170177#m"/>
+        <updated>2022-11-28T15:49:57.000Z</updated>
+        <summary type="html"><![CDATA[#CLX_lain]]></summary>
+        <author>
+            <name>@oekakiAI</name>
         </author>
     </entry>
     <entry>
@@ -692,72 +997,6 @@ patreon.com/posts/i-am-now-f…]]></summary>
         <id>https://vk.com/wall-201223334_4195</id>
         <link href="https://vk.com/wall-201223334_4195"/>
         <updated>2022-11-24T15:44:08.000Z</updated>
-        <author>
-            <name>Неоднозначный поток сознания</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[как же это все таки смешно, особенно что автором выбрали како...]]></title>
-        <id>https://vk.com/wall-201223334_4192</id>
-        <link href="https://vk.com/wall-201223334_4192"/>
-        <updated>2022-11-24T11:04:13.000Z</updated>
-        <summary type="html"><![CDATA[как же это все таки смешно, особенно что автором выбрали какого-то рандомного чела который постит в тг картинки из засмеялся-проиграл тредов на двачах. 
-
-"Картинка побывала в твиттере, оказалась на Дваче, скатилась до пабликов «ВКонтакте»"
-Вообще-то из паблика вконтакте она как раз поднялась...]]></summary>
-        <author>
-            <name>Неоднозначный поток сознания</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Untitled]]></title>
-        <id>https://vk.com/wall220617968_3247</id>
-        <link href="https://vk.com/wall220617968_3247"/>
-        <updated>2022-11-24T06:26:02.000Z</updated>
-        <author>
-            <name>vk.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[И в дополнение к предыдущему посту, я думал что все люди таки...]]></title>
-        <id>https://vk.com/wall-201223334_4179</id>
-        <link href="https://vk.com/wall-201223334_4179"/>
-        <updated>2022-11-24T01:14:08.000Z</updated>
-        <summary type="html"><![CDATA[И в дополнение к предыдущему посту, я думал что все люди такие же как я и искал какие-то кусочки себя внутри них, и ужасно расстраивался когда не находил. Из-за этого создавалось ощущение что с ними что-то не так, либо что они от меня что-то скрывают, поэтому я чуть ли не пытал некоторых людей пытаясь добиться от них ответов. Но оказалось что они действительно совершенно другие внутри, та начинка которую я искал у них заменена на чувства и эмоции. Которые в принципе тоже прикольные, но фундаментально отличаются от "сакрального потока" и "разговоров с богом". Хотя я и таких встречал (как раз среди подписчиков), это вообще самородки.
-В общем люди пиздец какие разные, но со многими можно найти общий язык, если понять что у них внутри и научиться временами не быть собой, а входить в чужой резонанс]]></summary>
-        <author>
-            <name>Неоднозначный поток сознания</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ебаная бессонница, ну раз уж я все равно не сплю то буду эзот...]]></title>
-        <id>https://vk.com/wall-201223334_4178</id>
-        <link href="https://vk.com/wall-201223334_4178"/>
-        <updated>2022-11-24T00:20:58.000Z</updated>
-        <summary type="html"><![CDATA[Ебаная бессонница, ну раз уж я все равно не сплю то буду эзотерически срать в паблик. Короче идея 8 мне пришла еще давно, мне с раннего возраста было интересно че в голове у нормисов, для меня они выглядели максимально непонятно, и таинственно-загадочно. Я всю жизнь собирал о них информацию ощущая себя разведчиком, специально провоцировал их на споры чтобы изучать как работают их эмоции и чтобы они делились какими-то секретными внутренними переживаниями и своим устройством. Информации было не много, но я видел в их поведении какую-то общую особенность, которую мне было очень сложно формализовать, потому что очень сложно понять где они врут, а где их эмоции настоящие. У меня было две гипотезы, первая что они абсолютно пусты внутри как глиняный сосуд без содержимого, а вторая что они просто …]]></summary>
-        <author>
-            <name>Неоднозначный поток сознания</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Иногда кажется что пришла в голову какая-то новая инновационн...]]></title>
-        <id>https://vk.com/wall-201223334_4177</id>
-        <link href="https://vk.com/wall-201223334_4177"/>
-        <updated>2022-11-23T23:33:03.000Z</updated>
-        <summary type="html"><![CDATA[Иногда кажется что пришла в голову какая-то новая инновационная мысль меняющая мышление, а потом я вспоминаю что уже думал ее лет в 17-19, и так происходит уже очень много лет подряд, я просто думаю и забываю одни и те же мысли по кругу. Мне кажется мысли в принципе закончились, я исчерпал лимит рефлексии и делаю уже неизвестный мне по счёту круг стирания памяти и с каждым годом вместо того чтобы познавать новое только забываю то что когда-то знал. 
-Когда мне было 18 я думал что взрослые тупые дегенераты, и как оказалось это правда, потому что я вообще ничего нового учить теперь не могу и ощущаю себя так будто бы поинты интеллекта стали падать ровно в тот момент когда перестали быть нужны.
-Я компенсирую возрастающую лень коэффициентом кпд и чувствую себя ахуенно, но с другой из-за этого я расслабился и нихуя не делаю (потому что теперь можно нихуя не делать). 
-Хотя 8 конечно меня поразила, я ее все еще исследую и когда-нибудь все таки доберусь до очередного путешествия во Внешний мир, мб там чето новое заспавнилось]]></summary>
-        <author>
-            <name>Неоднозначный поток сознания</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[мне так нравилось сидеть в тредах новой нейросетки на дваче, ...]]></title>
-        <id>https://vk.com/wall-201223334_4174</id>
-        <link href="https://vk.com/wall-201223334_4174"/>
-        <updated>2022-11-23T19:25:12.000Z</updated>
-        <summary type="html"><![CDATA[мне так нравилось сидеть в тредах новой нейросетки на дваче, а эти долбоебы полностью скатили весь тред в аниме. Пиздец из всего многообразия форм и сочетаний несочетаемых предметов, у них был инструмент которым можно за одну строчку создать сталина в костюме медведя, киберсвинью, и целые истории вписанные в графическое изображение. И они вместо создания неповторимых образов блядь они там генерирует миллионы абсолютно одинаковых анимедевочек чтобы дрочить, да еще и с артефактами и неправильно растущими руками, сука я надеюсь эти люди вымрут.]]></summary>
         <author>
             <name>Неоднозначный поток сознания</name>
         </author>
