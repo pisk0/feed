@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-01-03T01:00:52.752Z</id>
+    <id>urn:2023-01-04T01:02:30.399Z</id>
     <title>osmos::feed</title>
-    <updated>2023-01-03T01:00:52.752Z</updated>
+    <updated>2023-01-04T01:02:30.399Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Untitled]]></title>
+        <id>https://vk.com/wall220617968_3304</id>
+        <link href="https://vk.com/wall220617968_3304"/>
+        <updated>2023-01-03T10:03:50.000Z</updated>
+        <author>
+            <name>vk.com</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Мы нашли на помойке автомагнитолу, починили и припаяли ее к к...]]></title>
         <id>https://vk.com/wall-201223334_4512</id>
@@ -397,35 +406,6 @@ https://vk.com/wall-76477496_172316]]></summary>
         <updated>2022-12-06T08:54:16.000Z</updated>
         <author>
             <name>Неоднозначный поток сознания</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[мээээээээээээээээээээээээээээээээээээээээээээээээм]]></title>
-        <id>https://vk.com/wall-201223334_4324</id>
-        <link href="https://vk.com/wall-201223334_4324"/>
-        <updated>2022-12-05T12:42:18.000Z</updated>
-        <summary type="html"><![CDATA[мээээээээээээээээээээээээээээээээээээээээээээээээм]]></summary>
-        <author>
-            <name>Неоднозначный поток сознания</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[😳]]></title>
-        <id>https://vk.com/wall-201223334_4321</id>
-        <link href="https://vk.com/wall-201223334_4321"/>
-        <updated>2022-12-05T10:54:07.000Z</updated>
-        <summary type="html"><![CDATA[😳]]></summary>
-        <author>
-            <name>Неоднозначный поток сознания</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Untitled]]></title>
-        <id>https://vk.com/wall220617968_3249</id>
-        <link href="https://vk.com/wall220617968_3249"/>
-        <updated>2022-12-04T18:13:38.000Z</updated>
-        <author>
-            <name>vk.com</name>
         </author>
     </entry>
 </feed>
