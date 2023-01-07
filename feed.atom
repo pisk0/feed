@@ -1,10 +1,104 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-01-06T01:04:08.142Z</id>
+    <id>urn:2023-01-07T01:01:11.281Z</id>
     <title>osmos::feed</title>
-    <updated>2023-01-06T01:04:08.142Z</updated>
+    <updated>2023-01-07T01:01:11.281Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[мы взорвали фейрверком буханку хлеба]]></title>
+        <id>https://vk.com/wall-201223334_4533</id>
+        <link href="https://vk.com/wall-201223334_4533"/>
+        <updated>2023-01-06T21:20:11.000Z</updated>
+        <summary type="html"><![CDATA[мы взорвали фейрверком буханку хлеба]]></summary>
+        <author>
+            <name>Неоднозначный поток сознания</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Я весь новый год курил с**йс и слушал атональную музыку
+Я так...]]></title>
+        <id>https://vk.com/wall-201223334_4531</id>
+        <link href="https://vk.com/wall-201223334_4531"/>
+        <updated>2023-01-06T20:54:41.000Z</updated>
+        <summary type="html"><![CDATA[Я весь новый год курил с**йс и слушал атональную музыку
+Я так много торчал, что вообще не фоткался, вот мое единственное фото]]></summary>
+        <author>
+            <name>Неоднозначный поток сознания</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ドキドキ。
+I'm excited.]]></title>
+        <id>https://nitter.it/wasei_jj/status/1611344072710709249#m</id>
+        <link href="https://nitter.it/wasei_jj/status/1611344072710709249#m"/>
+        <updated>2023-01-06T12:48:58.000Z</updated>
+        <summary type="html"><![CDATA[ドキドキ。
+nitter.it/wasei_jj/status/1611207702734319617#m]]></summary>
+        <author>
+            <name>@wasei_jj</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[У поезда стоянка почти полчаса, надо придумать как бы запалит...]]></title>
+        <id>https://vk.com/wall-201223334_4529</id>
+        <link href="https://vk.com/wall-201223334_4529"/>
+        <updated>2023-01-06T11:05:02.000Z</updated>
+        <summary type="html"><![CDATA[У поезда стоянка почти полчаса, надо придумать как бы запалить плюху на пероне. Ехать пизда как скучно я не курил целых 12 часов]]></summary>
+        <author>
+            <name>Неоднозначный поток сознания</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【Cyberia Layer X season:02】layer:14
+新年一発目の今夜は #CYBERIA_VRC から生中継！
+See you later on the live from #CYBERIA_VRC !!
+day: Jan. 6 Fri.
+URL: https://youtu.be/MTYh5N_mMeg
+time: 夜10時/13:00UTC/8:00EST
+#CLX_lain #CLX_lain_VR #lain_TTL #serialexperimentslain]]></title>
+        <id>https://nitter.it/wasei_jj/status/1611292604347617281#m</id>
+        <link href="https://nitter.it/wasei_jj/status/1611292604347617281#m"/>
+        <updated>2023-01-06T09:24:27.000Z</updated>
+        <summary type="html"><![CDATA[【Cyberia Layer X season:02】layer:14
+#CYBERIA_VRC から生中継！
+#CYBERIA_VRC !!
+piped.mha.fi/MTYh5N_mMeg
+#CLX_lain #CLX_lain_VR #lain_TTL #serialexperimentslain]]></summary>
+        <author>
+            <name>@wasei_jj</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tonight is a highly requested project. All live broadcasts will be done from a fixed point & handheld camera set up at #CYBERIA_VRC. I'm in Krabi, Thailand, so the DJ Mix will be recorded, but I'll be there to chat with fun’s.
+URL: https://youtu.be/MTYh5N_mMeg
+#CLX_lain #CLX_lain_VR]]></title>
+        <id>https://nitter.it/wasei_jj/status/1611208013716815875#m</id>
+        <link href="https://nitter.it/wasei_jj/status/1611208013716815875#m"/>
+        <updated>2023-01-06T03:48:19.000Z</updated>
+        <summary type="html"><![CDATA[Tonight is a highly requested project. All live broadcasts will be done from a fixed point & handheld camera set up at #CYBERIA_VRC. I'm in Krabi, Thailand, so the DJ Mix will be recorded, but I'll be there to chat with fun’s.
+piped.mha.fi/MTYh5N_mMeg
+#CLX_lain #CLX_lain_VR
+nitter.it/wasei_jj/status/1610848424638967808#m]]></summary>
+        <author>
+            <name>@wasei_jj</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[今夜は要望が多かった企画です。生中継は全て #CYBERIA_VRC に設置された定点&ハンディカメラで行います。僕は今タイのクラビにいるのでDJ Mixは録画だけど、皆んなと一緒にチャット参戦しまーす。
+URL: https://youtu.be/MTYh5N_mMeg
+#CLX_lain #CLX_lain_VR]]></title>
+        <id>https://nitter.it/wasei_jj/status/1611207702734319617#m</id>
+        <link href="https://nitter.it/wasei_jj/status/1611207702734319617#m"/>
+        <updated>2023-01-06T03:47:05.000Z</updated>
+        <summary type="html"><![CDATA[今夜は要望が多かった企画です。生中継は全て #CYBERIA_VRC に設置された定点&ハンディカメラで行います。僕は今タイのクラビにいるのでDJ Mixは録画だけど、皆んなと一緒にチャット参戦しまーす。
+piped.mha.fi/MTYh5N_mMeg
+#CLX_lain #CLX_lain_VR
+nitter.it/wasei_jj/status/1610848424638967808#m]]></summary>
+        <author>
+            <name>@wasei_jj</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【Cyberia Layer X season:02】layer:14
 新年一発目は #CYBERIA_VRC から生中継！
@@ -18,7 +112,7 @@ archives: http://youtube.com/c/djwaseijp
         <updated>2023-01-05T03:59:27.000Z</updated>
         <summary type="html"><![CDATA[【Cyberia Layer X season:02】layer:14
 #CYBERIA_VRC から生中継！
-piped.mha.fi/c/djwaseijp
+piped.mha.fi/djwaseijp
 #CLX_lain #CLX_lain_VR #lain_TTL #serialexperimentslain]]></summary>
         <author>
             <name>@wasei_jj</name>
@@ -102,16 +196,6 @@ waseijj.bandcamp.com
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[星乃珈琲、お年賀ブレンドをお薦めされたので頼んだら金箔乗っとる https://instagr.am/p/Cm-PZ2SPYai/]]></title>
-        <id>https://nitter.it/abfly/status/1610438478625480706#m</id>
-        <link href="https://nitter.it/abfly/status/1610438478625480706#m"/>
-        <updated>2023-01-04T00:50:28.000Z</updated>
-        <summary type="html"><![CDATA[星乃珈琲、お年賀ブレンドをお薦めされたので頼んだら金箔乗っとる instagr.am/p/Cm-PZ2SPYai/]]></summary>
-        <author>
-            <name>@abfly</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Untitled]]></title>
         <id>https://vk.com/wall220617968_3304</id>
         <link href="https://vk.com/wall220617968_3304"/>
@@ -150,26 +234,6 @@ waseijj.bandcamp.com
         <summary type="html"><![CDATA[Какова хуя уже 3 января и че было 2 дняинаждрмирд]]></summary>
         <author>
             <name>Неоднозначный поток сознания</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[steam deckの開封動画がYouTubeで大量におすすめされて気になって仕方がないがSwitchのゲームですら遊び切れず積まれてるのに、もう一台増えたら収拾つかないよな……]]></title>
-        <id>https://nitter.it/abfly/status/1609546962172522496#m</id>
-        <link href="https://nitter.it/abfly/status/1609546962172522496#m"/>
-        <updated>2023-01-01T13:47:54.000Z</updated>
-        <summary type="html"><![CDATA[steam deckの開封動画がYouTubeで大量におすすめされて気になって仕方がないがSwitchのゲームですら遊び切れず積まれてるのに、もう一台増えたら収拾つかないよな……]]></summary>
-        <author>
-            <name>@abfly</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[スプラ3初めての昇格戦配信 https://youtu.be/blM8s-eygVI @YouTubeより ちょっとやります]]></title>
-        <id>https://nitter.it/abfly/status/1609418544135176192#m</id>
-        <link href="https://nitter.it/abfly/status/1609418544135176192#m"/>
-        <updated>2023-01-01T05:17:37.000Z</updated>
-        <summary type="html"><![CDATA[スプラ3初めての昇格戦配信 piped.mha.fi/blM8s-eygVI @YouTubeより ちょっとやります]]></summary>
-        <author>
-            <name>@abfly</name>
         </author>
     </entry>
     <entry>
@@ -252,16 +316,6 @@ VRCで年越しさせていただきました。長時間踊れて楽しかっ�
 #CLX_lain #CYBERIA_VRC #CLX_lain_VR]]></summary>
         <author>
             <name>@Orime_03</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[子供の寝相が悪くて蹴られて目が覚めた……。あけましておめでとうございます……]]></title>
-        <id>https://nitter.it/abfly/status/1609229044285083648#m</id>
-        <link href="https://nitter.it/abfly/status/1609229044285083648#m"/>
-        <updated>2022-12-31T16:44:36.000Z</updated>
-        <summary type="html"><![CDATA[子供の寝相が悪くて蹴られて目が覚めた……。あけましておめでとうございます……]]></summary>
-        <author>
-            <name>@abfly</name>
         </author>
     </entry>
     <entry>
@@ -388,107 +442,6 @@ nitter.it/wasei_jj/status/1609104438425440256#m]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【CYBERIA LAYER X DISCO COUNT DOWN 2022-2023】
-準備はいいか！？
-Are you ready for the party!?
-day: Dec. 31 2022
-time: 14:00 UTC/09:00 EST/23:00 JST
-#CLX_lain #CYBERIA_VRC #CLX_lain_VR #SerialExperimentsLain #lainTTL #シリアルエクスペリメンツレイン #cyberialayer4]]></title>
-        <id>https://nitter.it/wasei_jj/status/1609104438425440256#m</id>
-        <link href="https://nitter.it/wasei_jj/status/1609104438425440256#m"/>
-        <updated>2022-12-31T08:29:28.000Z</updated>
-        <summary type="html"><![CDATA[【CYBERIA LAYER X DISCO COUNT DOWN 2022-2023】
-#CLX_lain #CYBERIA_VRC #CLX_lain_VR #SerialExperimentsLain #lainTTL #シリアルエクスペリメンツレイン #cyberialayer4]]></summary>
-        <author>
-            <name>@wasei_jj</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[撤収します。ありがとうございました！]]></title>
-        <id>https://nitter.it/abfly/status/1609076560673525762#m</id>
-        <link href="https://nitter.it/abfly/status/1609076560673525762#m"/>
-        <updated>2022-12-31T06:38:41.000Z</updated>
-        <summary type="html"><![CDATA[撤収します。ありがとうございました！]]></summary>
-        <author>
-            <name>@abfly</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[このイベント、ほんと楽しそうだわー。
-This party looks really fun!]]></title>
-        <id>https://nitter.it/wasei_jj/status/1609013648479092736#m</id>
-        <link href="https://nitter.it/wasei_jj/status/1609013648479092736#m"/>
-        <updated>2022-12-31T02:28:42.000Z</updated>
-        <summary type="html"><![CDATA[このイベント、ほんと楽しそうだわー。
-nitter.it/maru17_vrc/status/1609013158370238467#m]]></summary>
-        <author>
-            <name>@wasei_jj</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[R to @wasei_jj: 場所は西地区さ-03bです。]]></title>
-        <id>https://nitter.it/wasei_jj/status/1609012336958013440#m</id>
-        <link href="https://nitter.it/wasei_jj/status/1609012336958013440#m"/>
-        <updated>2022-12-31T02:23:29.000Z</updated>
-        <summary type="html"><![CDATA[場所は西地区さ-03bです。]]></summary>
-        <author>
-            <name>@wasei_jj</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[そうそう、場所は西地区さ-03bだそうです。]]></title>
-        <id>https://nitter.it/wasei_jj/status/1609012294859763712#m</id>
-        <link href="https://nitter.it/wasei_jj/status/1609012294859763712#m"/>
-        <updated>2022-12-31T02:23:19.000Z</updated>
-        <summary type="html"><![CDATA[そうそう、場所は西地区さ-03bだそうです。
-nitter.it/wasei_jj/status/1608990656789368834#m]]></summary>
-        <author>
-            <name>@wasei_jj</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT by @abfly: #Cyberia_VRC オーガナイザーの一人ナイサス @ras_nisus が #コミケ にいるよ。VRCワールドのCafe & Club Cyberiaの記録本を販売中。安倍吉俊 @abfly さんイラストのCyberia LayerシリーズのCDやアパレル等も置いてもらった。行く人は是非覗いてみて。
-#CLX_lain #CLX_lain_VR #CyberiaLayer4]]></title>
-        <id>https://nitter.it/wasei_jj/status/1608990656789368834#m</id>
-        <link href="https://nitter.it/wasei_jj/status/1608990656789368834#m"/>
-        <updated>2022-12-31T00:57:20.000Z</updated>
-        <summary type="html"><![CDATA[#Cyberia_VRC オーガナイザーの一人ナイサス @ras_nisus が #コミケ にいるよ。VRCワールドのCafe & Club Cyberiaの記録本を販売中。安倍吉俊 @abfly さんイラストのCyberia LayerシリーズのCDやアパレル等も置いてもらった。行く人は是非覗いてみて。
-#CLX_lain #CLX_lain_VR #CyberiaLayer4]]></summary>
-        <author>
-            <name>@wasei_jj</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[設営完了。東地区ネ-17a,b むてけいファイヤー/ロマンスです。新刊あります。よろしくです #C101]]></title>
-        <id>https://nitter.it/abfly/status/1608984231174361091#m</id>
-        <link href="https://nitter.it/abfly/status/1608984231174361091#m"/>
-        <updated>2022-12-31T00:31:48.000Z</updated>
-        <summary type="html"><![CDATA[設営完了。東地区ネ-17a,b むてけいファイヤー/ロマンスです。新刊あります。よろしくです #C101]]></summary>
-        <author>
-            <name>@abfly</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[冬コミ東館 ネ17a,b むてけいです。新刊 飛びこめ！！沼 新しい沼編 05あります。既刊は冊数少なめなのでお早めに。よろしくお願いします #コミケ]]></title>
-        <id>https://nitter.it/abfly/status/1608973736790872064#m</id>
-        <link href="https://nitter.it/abfly/status/1608973736790872064#m"/>
-        <updated>2022-12-30T23:50:06.000Z</updated>
-        <summary type="html"><![CDATA[冬コミ東館 ネ17a,b むてけいです。新刊 飛びこめ！！沼 新しい沼編 05あります。既刊は冊数少なめなのでお早めに。よろしくお願いします #コミケ]]></summary>
-        <author>
-            <name>@abfly</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022冬コミ告知 #オリジナル #コミケ #同人誌 #カメラ https://www.pixiv.net/artworks/104045537]]></title>
-        <id>https://nitter.it/abfly/status/1608729582643073024#m</id>
-        <link href="https://nitter.it/abfly/status/1608729582643073024#m"/>
-        <updated>2022-12-30T07:39:55.000Z</updated>
-        <summary type="html"><![CDATA[2022冬コミ告知 #オリジナル #コミケ #同人誌 #カメラ pixiv.net/artworks/104045537]]></summary>
-        <author>
-            <name>@abfly</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[дасука ебаные пушкинские карты, чет я так и не понял это на п...]]></title>
         <id>https://vk.com/wall-201223334_4487</id>
         <link href="https://vk.com/wall-201223334_4487"/>
@@ -519,46 +472,6 @@ nitter.it/wasei_jj/status/1608990656789368834#m]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[R to @abfly: 先ほどの凹んだ消しゴム、凹んだ部分に小さい消しゴムが入っていたみたいです。お騒がせしました。]]></title>
-        <id>https://nitter.it/abfly/status/1607891552944422912#m</id>
-        <link href="https://nitter.it/abfly/status/1607891552944422912#m"/>
-        <updated>2022-12-28T00:09:54.000Z</updated>
-        <summary type="html"><![CDATA[先ほどの凹んだ消しゴム、凹んだ部分に小さい消しゴムが入っていたみたいです。お騒がせしました。]]></summary>
-        <author>
-            <name>@abfly</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ありがとうございます。きっと買ってすぐなくしてその事を忘れているんだと思います]]></title>
-        <id>https://nitter.it/abfly/status/1607890523720921089#m</id>
-        <link href="https://nitter.it/abfly/status/1607890523720921089#m"/>
-        <updated>2022-12-28T00:05:48.000Z</updated>
-        <summary type="html"><![CDATA[ありがとうございます。きっと買ってすぐなくしてその事を忘れているんだと思います]]></summary>
-        <author>
-            <name>@abfly</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[子供が「消しゴム詐欺だ！」と言うので見てみたら、え？！これ本当？なんかケチってる以外の意味がある仕組み？]]></title>
-        <id>https://nitter.it/abfly/status/1607873057166884865#m</id>
-        <link href="https://nitter.it/abfly/status/1607873057166884865#m"/>
-        <updated>2022-12-27T22:56:24.000Z</updated>
-        <summary type="html"><![CDATA[子供が「消しゴム詐欺だ！」と言うので見てみたら、え？！これ本当？なんかケチってる以外の意味がある仕組み？]]></summary>
-        <author>
-            <name>@abfly</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[今年もトロのカレンダーいただきました。ありがとうございます😊 https://instagr.am/p/CmqPEbUPWQc/]]></title>
-        <id>https://nitter.it/abfly/status/1607614931595149314#m</id>
-        <link href="https://nitter.it/abfly/status/1607614931595149314#m"/>
-        <updated>2022-12-27T05:50:42.000Z</updated>
-        <summary type="html"><![CDATA[今年もトロのカレンダーいただきました。ありがとうございます😊 instagr.am/p/CmqPEbUPWQc/]]></summary>
-        <author>
-            <name>@abfly</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Короче я изобрёл коечто и могу сказать одно - колбаска круче ...]]></title>
         <id>https://vk.com/wall-201223334_4462</id>
         <link href="https://vk.com/wall-201223334_4462"/>
@@ -576,16 +489,6 @@ nitter.it/wasei_jj/status/1608990656789368834#m]]></summary>
         <summary type="html"><![CDATA[блин выходит 8 все таки может вращаться сама собой хотя я это и так знал]]></summary>
         <author>
             <name>Неоднозначный поток сознания</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【期間限定】こどものグルメ 　「孤独のグルメ」原作者・久住昌之の新感覚グルメ漫画をドラマ化！【公式】 https://youtu.be/eu5SOsmTwZ8 @YouTube 期間限定なのか。この機会にぜひ]]></title>
-        <id>https://nitter.it/abfly/status/1606618774312194052#m</id>
-        <link href="https://nitter.it/abfly/status/1606618774312194052#m"/>
-        <updated>2022-12-24T11:52:19.000Z</updated>
-        <summary type="html"><![CDATA[【期間限定】こどものグルメ 　「孤独のグルメ」原作者・久住昌之の新感覚グルメ漫画をドラマ化！【公式】 piped.mha.fi/eu5SOsmTwZ8 @YouTube 期間限定なのか。この機会にぜひ]]></summary>
-        <author>
-            <name>@abfly</name>
         </author>
     </entry>
     <entry>
@@ -619,26 +522,6 @@ nitter.it/wasei_jj/status/1608990656789368834#m]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ウズラ(••)6歳がクリスマス飾りを自作し始めたが…… https://instagr.am/p/CmgTC6FP6ts/]]></title>
-        <id>https://nitter.it/abfly/status/1606225858255101953#m</id>
-        <link href="https://nitter.it/abfly/status/1606225858255101953#m"/>
-        <updated>2022-12-23T09:51:01.000Z</updated>
-        <summary type="html"><![CDATA[ウズラ(••)6歳がクリスマス飾りを自作し始めたが…… instagr.am/p/CmgTC6FP6ts/]]></summary>
-        <author>
-            <name>@abfly</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[『ウィザードリィ』の伝説的小説『隣り合わせの灰と青春』30年以上の時を経てまさかのコミカライズが連載開始。ベニー松山氏と蝸牛くも氏による、ふたりのウィザードリィ小説作家の対談も公開 https://news.denfaminicogamer.jp/news/221223q @denfaminicogameより懐かしい]]></title>
-        <id>https://nitter.it/abfly/status/1606177246003318786#m</id>
-        <link href="https://nitter.it/abfly/status/1606177246003318786#m"/>
-        <updated>2022-12-23T06:37:51.000Z</updated>
-        <summary type="html"><![CDATA[『ウィザードリィ』の伝説的小説『隣り合わせの灰と青春』30年以上の時を経てまさかのコミカライズが連載開始。ベニー松山氏と蝸牛くも氏による、ふたりのウィザードリィ小説作家の対談も公開 news.denfaminicogamer.jp/new… @denfaminicogameより懐かしい]]></summary>
-        <author>
-            <name>@abfly</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[А вы тоже мечтаете сожрать нбом в колонии строгого режима?]]></title>
         <id>https://vk.com/wall-201223334_4429</id>
         <link href="https://vk.com/wall-201223334_4429"/>
@@ -659,28 +542,6 @@ nitter.it/wasei_jj/status/1608990656789368834#m]]></summary>
 это типа отзыв как на сайт иррекоменд]]></summary>
         <author>
             <name>Неоднозначный поток сознания</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Doujinshi has been submitted.
- https://www.patreon.com/posts/doujinshi-has-76231900?utm_medium=social&utm_source=twitter&utm_campaign=postshare_creator&utm_content=join_link]]></title>
-        <id>https://nitter.it/abfly/status/1605838182775459840#m</id>
-        <link href="https://nitter.it/abfly/status/1605838182775459840#m"/>
-        <updated>2022-12-22T08:10:32.000Z</updated>
-        <summary type="html"><![CDATA[The Doujinshi has been submitted.
-patreon.com/posts/doujinshi-…]]></summary>
-        <author>
-            <name>@abfly</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[pixivFANBOXで入稿完了！を公開しました！ https://abfly.fanbox.cc/posts/4968950?utm_campaign=manage_post_page&utm_medium=share&utm_source=twitter]]></title>
-        <id>https://nitter.it/abfly/status/1605836713577807872#m</id>
-        <link href="https://nitter.it/abfly/status/1605836713577807872#m"/>
-        <updated>2022-12-22T08:04:42.000Z</updated>
-        <summary type="html"><![CDATA[pixivFANBOXで入稿完了！を公開しました！ abfly.fanbox.cc/posts/496895…]]></summary>
-        <author>
-            <name>@abfly</name>
         </author>
     </entry>
     <entry>
@@ -722,41 +583,6 @@ patreon.com/posts/doujinshi-…]]></summary>
         <summary type="html"><![CDATA[за 4 часа до нового года будет релизнут в общий доступ пятилетний пуп на 15 минут кстати. Специально чтобы вы могли посмотреть его дико упоротые вместо обращения кого-то там]]></summary>
         <author>
             <name>Неоднозначный поток сознания</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT by @abfly: 【Cyberia Layer:04】Now On Sale
-music: WASEI JJ CHIKADA
-illustration: yoshitoshi ABe @abfly
-JJ Store: https://wasei.tokyo
-bandcamp: https://waseijj.bandcamp.com
-#CLX_lain #SerialExperimentsLain #lainTTL #シリアルエクスペリメンツレイン #メッサストア #安倍吉俊 #cyberialayer4]]></title>
-        <id>https://nitter.it/wasei_jj/status/1605160275443077120#m</id>
-        <link href="https://nitter.it/wasei_jj/status/1605160275443077120#m"/>
-        <updated>2022-12-20T11:16:46.000Z</updated>
-        <summary type="html"><![CDATA[【Cyberia Layer:04】Now On Sale
-@abfly
-wasei.tokyo
-waseijj.bandcamp.com
-#CLX_lain #SerialExperimentsLain #lainTTL #シリアルエクスペリメンツレイン #メッサストア #安倍吉俊 #cyberialayer4]]></summary>
-        <author>
-            <name>@wasei_jj</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RT by @abfly: 【#SIGMA 今日は何の日】
-6年前の今日、2016年12月20日に、5,100万画素相当のAPS-Hサイズ #Foveon Quattroセンサーを採用し、映像エンジン「TRUE III」をデュアル搭載した高画質デジタル一眼カメラ、SIGMA sd Quattro Hを発売しました。
-https://www.sigma-global.com/jp/cameras/sd-quattro-h/
-#sdQuattroH #SAマウント]]></title>
-        <id>https://nitter.it/Sigma_Japan/status/1605109496967090176#m</id>
-        <link href="https://nitter.it/Sigma_Japan/status/1605109496967090176#m"/>
-        <updated>2022-12-20T07:55:00.000Z</updated>
-        <summary type="html"><![CDATA[【#SIGMA 今日は何の日】
-#Foveon Quattroセンサーを採用し、映像エンジン「TRUE III」をデュアル搭載した高画質デジタル一眼カメラ、SIGMA sd Quattro Hを発売しました。
-sigma-global.com/jp/cameras/…
-#sdQuattroH #SAマウント]]></summary>
-        <author>
-            <name>@Sigma_Japan</name>
         </author>
     </entry>
     <entry>
